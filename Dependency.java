@@ -1,4 +1,4 @@
-The target names are file names and so I need to add them to the .PHONY line.
+//The target names are file names and so I need to add them to the .PHONY line.
 
 public class Dependency
 {
